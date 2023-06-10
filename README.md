@@ -9,7 +9,7 @@ Browser sync: browser-sync start --server --file . --host --port 5000 --startPat
 click derecho en lista_cliente.html
 live server
 
-# Buescar:
+# Buscar:
 json-server npm
 https://www.npmjs.com/package/json-server
 
@@ -22,3 +22,6 @@ json-server --watch db.json
 
 # AJAX
 Asyncronous JavaScript and XML
+
+## Articulo
+https://www.aluracursos.com/blog/empezando-con-fetch-en-javascript?utm_source=gnarus&utm_medium=timeline
